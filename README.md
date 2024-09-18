@@ -6,11 +6,6 @@ Welcome to the eCommerce App! This is a robust online shopping platform built wi
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## **Features**
 
@@ -30,11 +25,3 @@ Welcome to the eCommerce App! This is a robust online shopping platform built wi
 - **JWT (JSON Web Tokens)**: For secure user authentication and session management.
 - **Bcrypt.js**: For hashing user passwords to ensure security.
 - **Nodemon**: Automatically restarts the server during development for faster iteration.
-
-## **Installation**
-
-Follow these steps to get the eCommerce app up and running:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-app.git
